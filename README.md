@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Edgar Lins
 
+I'm from Brazil and I'm 20 years old!
+
 * 🔭 I'm currently working at Whydah as an IT Analyst...
 * 🌱 I’m learning HTML CSS JAVASCRIPT and PYTHON
 * 👾 In my free time, I usually play some games for fun. (Unfortunately, I end up stressing myself more than having fun 😅)
