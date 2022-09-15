@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Edgar Lins
 
 * 🔭 I'm currently working at Whydah as an IT Analyst...
-* 
+* 🌱 I’m learning HTML CSS JAVASCRIPT and PYTHON
+* 👾 In my free time, I usually play some games for fun. (Unfortunately, I end up stressing myself more than having fun 😅)
 
 <!--
 **edgar-lins/edgar-lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
