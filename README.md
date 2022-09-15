@@ -4,6 +4,7 @@ I'm 20 years old and I'm living in Brazil!
 
 * 🔭 I'm currently working at Whydah as an IT Analyst...
 * 🌱 I’m learning HTML CSS JAVASCRIPT and PYTHON
+* 💡 I like to learn new things all the time. That's why I'm here!
 * 👾 In my free time, I usually play some games for fun. (Unfortunately, I end up stressing myself more than having fun 😅)
 
 ### Language and Tools (I'm learning yet)
