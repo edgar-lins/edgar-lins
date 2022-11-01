@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Edgar Lins
 
-I'm 20 years old and I'm living in Brazil!
+I'm 21 years old and I'm living in Brazil!
 
 * 🔭 I'm currently working at Whydah as an IT Analyst...
 * 🌱 I’m learning HTML CSS JAVASCRIPT and PYTHON
