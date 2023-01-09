@@ -23,7 +23,7 @@ I'm 21 years old and I'm living in Brazil!
 
 
 
-
+![Snake animation](https://github.com/edgar-lins/edgar-lins/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
