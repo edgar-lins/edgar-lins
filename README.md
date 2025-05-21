@@ -4,7 +4,7 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-🚀 Buscando oportunidades para aplicar e expandir meus conhecimentos em tecnologia.
+🚀 Busco crescer como desenvolvedor, criando soluções úteis, aprendendo com a prática e me conectando com outros devs.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -22,3 +22,7 @@
 
 - Email: edgarlins.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edgarlins
+
+---
+
+> Aprendizado constante. Progresso visível. Um passo de cada vez.
