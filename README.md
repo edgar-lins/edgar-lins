@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Edgar Lins
 
-<!--
-**edgar-lins/edgar-lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor backend em formação, com foco em Go e projetos práticos.
 
-Here are some ideas to get you started:
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Buscando oportunidades para aplicar e expandir meus conhecimentos em tecnologia.
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: Go, JavaScript, HTML, CSS
+- Ferramentas: Git, GitHub, Postman
+
+## 📌 Projetos
+
+- [clone-tabnews](https://github.com/edgar-lins/clone-tabnews): Clone da plataforma TabNews.
+- [nlw-eSports-explorer](https://github.com/edgar-lins/nlw-eSports-explorer): Projeto desenvolvido no evento NLW da Rocketseat.
+- [rocketnotes](https://github.com/edgar-lins/rocketnotes): Aplicação para gerenciamento de notas.
+- [Blog-de-Gatos](https://github.com/edgar-lins/Blog-de-Gatos): Blog desenvolvido no módulo de HTML & CSS da Rocketseat.
+
+## 📫 Contato
+
+- Email: edgarlins.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/edgarlins
